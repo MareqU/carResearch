@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__playwright__browser_navigate",
+      "Bash(npx playwright *)",
+      "Read(//home/marek/.cache/ms-playwright/mcp-chrome-858cff6/**)",
+      "Read(//home/marek/.cache/ms-playwright/mcp-chrome-c3894c8/**)",
+      "Bash(python3 -m json.tool)",
+      "mcp__playwright__browser_take_screenshot",
+      "mcp__playwright__browser_click",
+      "mcp__playwright__browser_snapshot",
+      "mcp__playwright__browser_evaluate",
+      "mcp__playwright__browser_wait_for",
+      "mcp__playwright__browser_type",
+      "mcp__playwright__browser_fill_form"
+    ]
+  }
+}
