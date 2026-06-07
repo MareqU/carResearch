@@ -1,4 +1,4 @@
-# buyCar — AI agent pro výběr ojetého auta
+# carResearch — AI agent pro výběr ojetého auta
 
 AI agent postavený na Claude Code a Playwright MCP, který prohledává české inzertní portály, vyhodnocuje nalezená auta podle předem definovaných kritérií a generuje strukturované reporty s verdiktem **koupit / zvážit / vyhnout se**.
 
@@ -104,7 +104,7 @@ Agent ukládá výsledky do složky pojmenované podle aktuálního data (např.
 ## Struktura projektu
 
 ```
-buyCar/
+carResearch/
 ├── car_agent.md        # Instrukce pro agenta (prompt)
 ├── README.md
 ├── 17052026/           # Výsledky ze dne 17.5.2026
