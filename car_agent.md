@@ -8,7 +8,7 @@ Auto musí být praktické pro rodinu s manželkou a 1 dítětem.
 
 | Parametr | Hodnota |
 |----------|---------|
-| Lokalita | Praha a okolí (preferováno) |
+| Lokalita | Praha a okolí — akceptováno vše do 1 hodiny jízdy od Prahy (např. Plzeň, Mladá Boleslav, Hradec Králové) |
 | Rozpočet | max 250 000 Kč |
 | Značky | Škoda Octavia, Škoda Rapid, VW Golf, VW Passat, VW Touran, VW Sharan |
 | Palivo | benzín |
@@ -53,7 +53,7 @@ Auto musí být praktické pro rodinu s manželkou a 1 dítětem.
 |--------|-----|----------|
 | Sauto | https://www.sauto.cz | Největší inzerce, soukromníci i bazary |
 | AAA Auto | https://www.aaaauto.cz | Největší síť bazarů v ČR |
-| Auto ESA | https://www.autoesa.cz | Síť bazarů |
+| Auto ESA | https://www.autoesa.cz | Síť bazarů — ⚠️ filtr ceny funguje dle **akční ceny na úvěr**, ne hotovostní. Hotovostní ceny jsou o 40–100 000 Kč vyšší — vždy ověřit „Cena v hotovosti" na detailu inzerátu |
 
 ### Filtry na každém portálu
 
@@ -81,9 +81,12 @@ Auto musí být praktické pro rodinu s manželkou a 1 dítětem.
 
 | Motor | Hodnocení | Poznámka |
 |-------|-----------|----------|
-| 1.6 MPI | ✅ Velmi spolehlivý | Starší, jednoduchý, bez turba — slabší výkon |
+| 1.6 MPI | ✅ Velmi spolehlivý | Starší, jednoduchý, bez turba — slabší výkon (81 kW) |
+| 1.5 TSI (2019+) | ✅ Výborná volba | Nástupce 1.4 TSI, 110 kW, moderní EA211 Evo, vyladěná verze ACT |
 | 1.2 TSI (Rapid od 2012+) | ✅ Dobrá volba | Opravené řetězové rozvody |
+| 1.0 TSI | ✅ Spolehlivý | Moderní, EURO6, 85 kW — postačující pro město i dálnici |
 | 1.2 TSI (starší Octavia/Golf) | ⚠️ Pozor | Řetězové rozvody, spotřeba oleje |
+| 1.5 TSI (2017–2018) | ⚠️ Ověřit | Raná verze — drobné problémy s ACT (vibrace při přepínání válců) |
 | 1.4 TSI | ⚠️ Pozor | Výkonný, nákladnější na servis — pozor na starší kusy |
 | 1.4 TSI + DSG do 2015 | ❌ Vyhnout se | Suché spojky DSG — nevhodné pro město a kolony |
 
@@ -96,6 +99,7 @@ Auto musí být praktické pro rodinu s manželkou a 1 dítětem.
 - Hodnocení NCAP bezpečnosti (min. 4 hvězdy)
 - ISO FIX pro dětskou sedačku (výhoda)
 - Dobrý výhled z auta při parkování
+- **STK** — ověřit datum platnosti přímo v inzerátu nebo na registru; STK prošlé nebo expirující do 3 měsíců = ❌ nebo nutno zahrnout do vyjednávání ceny
 
 ---
 

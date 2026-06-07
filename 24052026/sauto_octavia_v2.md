@@ -1,0 +1,1314 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e7]:
+    - banner "Hlavička" [ref=e9]:
+      - link "undefined" [ref=e11] [cursor=pointer]:
+        - /url: /
+        - img "undefined" [ref=e12]
+      - combobox [ref=e15]:
+        - generic [ref=e16]:
+          - textbox "Např. Škoda Octavia černá" [ref=e17]
+          - button "Vyhledat" [ref=e18] [cursor=pointer]:
+            - img [ref=e20]
+      - generic [ref=e22]:
+        - button "Ikona Vložit inzerát" [ref=e25] [cursor=pointer]:
+          - img "Ikona" [ref=e26]
+          - generic [ref=e27]: Vložit inzerát
+        - navigation "Osobní menu" [ref=e28]:
+          - heading "Osobní menu" [level=6] [ref=e29]
+          - link "Seznam.cz" [ref=e31] [cursor=pointer]:
+            - /url: https://www.seznam.cz
+          - generic "Osobní navigace, přihlášení a další služby" [ref=e32]:
+            - generic [ref=e34]:
+              - button "Email" [ref=e35] [cursor=pointer]:
+                - img [ref=e36]
+              - button "Komentáře" [ref=e38] [cursor=pointer]:
+                - img [ref=e39]
+              - link "Přihlásit se" [ref=e41] [cursor=pointer]:
+                - /url: https://login.szn.cz/?service=sauto&return_url=https%3A%2F%2Fwww.sauto.cz%2Finzerce%2Fosobni%2Fskoda%2Foctavia%3Fcena-do%3D250000%26vyrobeno-od%3D2015%26km-do%3D150000%26palivo%3Dbenzin%26prevodovka%3Dmanual%26pohon%3Dpredni%26lokalita%3DPraha&source=sauto&source-component=login_login
+    - generic [ref=e42]:
+      - generic [ref=e44]:
+        - generic:
+          - generic:
+            - link:
+              - /url: https://i.imedia.cz/v2/click?spotId=4147735&d=2GDC38YI4N5NRYXK74A99NZ9JEGZAWBEKME3KU6SE47IHGCVAEZU2XZTYTMHMM87FFP22H8CUSA3HIDBP55QTDYTXQGRX9KXP4QQMZCA62UJSNP5IB2NPNAGIWDDIGFEJ4QBMADW74WRBCW9X9VF4GNMY87ZGWYTX94RZ9GMGP6WUG2S7J28QXYI8PHSCKAJZTFWGZXVUQSYG68Y86ENHIDSR59X9WTMPC9PDNKHJFPJSAUGKNBKJRG9MEEJFJK5NV58PDXUWQD98CS6FK4XBYCESXYCDQJBXBF5FKKGX75IG5FA52R6AZWF9W3I9BRINV9GQQD94C9J4HXNEMR662UGSNH23DZ8RVKC5CNK3A6Y4GSS8FT5URV8MDAZA9NJ5C7XZVQH2PIR9U3INIXHTYN8IWCRW6F9PK2ITIG3G4AR8HDSPVZHVCVCW5KTVBPZ874S7NNB6XS6AAGDGSE8ANUEIH82QBCVKS3N86WYPAJYXBW7XQCI8KUCSXHS7FANRBZRNYXJB7RMEXTCD2BQT8XF7VSGRHY9XTSK4RS356WG63I2ZX5BGYYIDX4MS5KHVFQ5KYPKZUUE8A2HJVZK4TH6P39ET2XFUZQREKIRJI&destination=https%3A//www.aaaauto.cz/sleva/%3Futm_source%3Dsauto.cz%26utm_medium%3Dbranding%26utm_campaign%3Djarni-slevy-2026%26utm_term%3Dbranding-vypis-inzeratu-skoda%26utm_content%3Dbranding-100000kc-jarni-slevy-2026%26bsw%3D95
+        - link "advert-paw" [ref=e1627] [cursor=pointer]:
+          - /url: https://ssp.seznam.cz/ad-info#eyJhIjpbeyJpIjoiQS00MTQ3NzM1IiwiYiI6IkFVUkVTIEhvbGRpbmdzIGEucy4iLCJwIjoiQVVSRVMgSG9sZGluZ3MgYS5zLiIsInIiOlsyXX1dLCJzIjoxLCJsIjowfQ
+          - img "advert-paw" [ref=e1629]
+      - generic [ref=e46]:
+        - generic [ref=e47]:
+          - generic [ref=e48]:
+            - generic [ref=e52]:
+              - generic [ref=e53]:
+                - button "Prodej" [ref=e54] [cursor=pointer]
+                - button "PronájemNOVÉ" [ref=e55] [cursor=pointer]
+              - generic [ref=e56]:
+                - button "Značky a modely" [ref=e57] [cursor=pointer]:
+                  - generic [ref=e58]:
+                    - img [ref=e60]
+                    - generic [ref=e62]: Značky a modely
+                - generic [ref=e65]:
+                  - generic [ref=e67]:
+                    - generic [ref=e68]:
+                      - generic [ref=e71]: Škoda
+                      - button [ref=e72] [cursor=pointer]:
+                        - img [ref=e74]
+                    - generic [ref=e77]:
+                      - generic [ref=e78]: Octavia
+                      - button [ref=e79] [cursor=pointer]:
+                        - generic:
+                          - img
+                    - combobox [ref=e80]:
+                      - generic [ref=e82]:
+                        - textbox "Přidat model" [ref=e83]
+                        - img [ref=e86]
+                        - button "otevřít nabídku" [ref=e88] [cursor=pointer]:
+                          - img [ref=e90]
+                  - button "Přidat značku" [ref=e93] [cursor=pointer]:
+                    - img [ref=e95]
+                    - generic [ref=e97]: Přidat značku
+              - generic [ref=e98]:
+                - button "Vyhledat v inzerátech" [ref=e99] [cursor=pointer]:
+                  - generic [ref=e100]:
+                    - img [ref=e102]
+                    - generic [ref=e104]: Vyhledat v inzerátech
+                - generic [ref=e107]:
+                  - textbox "Scout, RS, GTI..." [ref=e109]
+                  - button [ref=e110] [cursor=pointer]:
+                    - generic:
+                      - img
+              - generic [ref=e111]:
+                - button "Stav vozidla" [ref=e112] [cursor=pointer]:
+                  - generic [ref=e113]:
+                    - img [ref=e115]
+                    - generic [ref=e117]: Stav vozidla
+                - generic [ref=e122]:
+                  - generic [ref=e124] [cursor=pointer]:
+                    - generic [ref=e126]:
+                      - checkbox "Nové (0)" [checked]
+                      - img
+                    - generic [ref=e127]: Nové
+                    - generic [ref=e129]: (0)
+                  - generic [ref=e131] [cursor=pointer]:
+                    - generic [ref=e133]:
+                      - checkbox "Ojeté (29)" [checked]
+                      - img
+                    - generic [ref=e134]: Ojeté
+                    - generic [ref=e136]: (29)
+                  - generic [ref=e138] [cursor=pointer]:
+                    - generic [ref=e140]:
+                      - checkbox "Předváděcí (0)" [checked]
+                      - img
+                    - generic [ref=e141]: Předváděcí
+                    - generic [ref=e143]: (0)
+                  - generic [ref=e145] [cursor=pointer]:
+                    - generic [ref=e147]:
+                      - checkbox "Havarované (0)"
+                      - img
+                    - generic [ref=e148]: Havarované
+                    - generic [ref=e150]: (0)
+                  - generic [ref=e152] [cursor=pointer]:
+                    - generic [ref=e154]:
+                      - checkbox "Veterán (0)"
+                      - img
+                    - generic [ref=e155]: Veterán
+                    - generic [ref=e157]: (0)
+              - generic [ref=e158]:
+                - button "Cena" [ref=e159] [cursor=pointer]:
+                  - generic [ref=e160]:
+                    - img [ref=e162]
+                    - generic [ref=e164]: Cena
+                - generic [ref=e165]:
+                  - generic [ref=e167]:
+                    - generic [ref=e168]:
+                      - generic [ref=e170] [cursor=pointer]:
+                        - generic [ref=e172]:
+                          - radio "Do 50 000 Kč (0)"
+                          - img
+                        - generic [ref=e173]: Do 50 000 Kč
+                        - generic [ref=e175]: (0)
+                      - generic [ref=e177] [cursor=pointer]:
+                        - generic [ref=e179]:
+                          - radio "Do 100 000 Kč (0)"
+                          - img
+                        - generic [ref=e180]: Do 100 000 Kč
+                        - generic [ref=e182]: (0)
+                      - generic [ref=e184] [cursor=pointer]:
+                        - generic [ref=e186]:
+                          - radio "Do 200 000 Kč (5)"
+                          - img
+                        - generic [ref=e187]: Do 200 000 Kč
+                        - generic [ref=e189]: (5)
+                      - generic [ref=e191] [cursor=pointer]:
+                        - generic [ref=e193]:
+                          - radio "Vlastní (29)" [checked]
+                          - img
+                        - generic [ref=e194]: Vlastní
+                        - generic [ref=e196]: (29)
+                    - generic [ref=e197]:
+                      - combobox [ref=e199]:
+                        - generic [ref=e201]:
+                          - textbox "Od" [ref=e202]
+                          - button "otevřít nabídku" [ref=e203] [cursor=pointer]:
+                            - img [ref=e205]
+                      - combobox [ref=e209]:
+                        - generic [ref=e211]:
+                          - textbox "Do" [ref=e212]: 250 000
+                          - button "smazat" [ref=e213] [cursor=pointer]:
+                            - img [ref=e215]
+                  - generic [ref=e221]:
+                    - generic [ref=e223] [cursor=pointer]:
+                      - generic [ref=e225]:
+                        - checkbox "Cena na leasing (9)"
+                        - img
+                      - generic [ref=e226]: Cena na leasing
+                      - generic [ref=e228]: (9)
+                    - generic [ref=e230] [cursor=pointer]:
+                      - generic [ref=e232]:
+                        - checkbox "Možnost odpočtu DPH (7)"
+                        - img
+                      - generic [ref=e233]: Možnost odpočtu DPH
+                      - generic [ref=e235]: (7)
+              - generic [ref=e236]:
+                - button "Rok výroby" [ref=e237] [cursor=pointer]:
+                  - generic [ref=e238]:
+                    - img [ref=e240]
+                    - generic [ref=e242]: Rok výroby
+                - generic [ref=e245]:
+                  - generic [ref=e246]:
+                    - generic [ref=e248] [cursor=pointer]:
+                      - generic [ref=e250]:
+                        - radio "Do 3 let (0)"
+                        - img
+                      - generic [ref=e251]: Do 3 let
+                      - generic [ref=e253]: (0)
+                    - generic [ref=e255] [cursor=pointer]:
+                      - generic [ref=e257]:
+                        - radio "Do 6 let (0)"
+                        - img
+                      - generic [ref=e258]: Do 6 let
+                      - generic [ref=e260]: (0)
+                    - generic [ref=e262] [cursor=pointer]:
+                      - generic [ref=e264]:
+                        - radio "Do 10 let (10)"
+                        - img
+                      - generic [ref=e265]: Do 10 let
+                      - generic [ref=e267]: (10)
+                    - generic [ref=e269] [cursor=pointer]:
+                      - generic [ref=e271]:
+                        - radio "Vlastní (29)" [checked]
+                        - img
+                      - generic [ref=e272]: Vlastní
+                      - generic [ref=e274]: (29)
+                  - generic [ref=e275]:
+                    - combobox [ref=e277]:
+                      - generic [ref=e279]:
+                        - textbox "Od" [ref=e280]: "2015"
+                        - button "smazat" [ref=e281] [cursor=pointer]:
+                          - img [ref=e283]
+                    - combobox [ref=e287]:
+                      - generic [ref=e289]:
+                        - textbox "Do" [ref=e290]
+                        - button "otevřít nabídku" [ref=e291] [cursor=pointer]:
+                          - img [ref=e293]
+              - generic [ref=e295]:
+                - button "Stav tachometru" [ref=e296] [cursor=pointer]:
+                  - generic [ref=e297]:
+                    - img [ref=e299]
+                    - generic [ref=e301]: Stav tachometru
+                - generic [ref=e304]:
+                  - generic [ref=e305]:
+                    - generic [ref=e307] [cursor=pointer]:
+                      - generic [ref=e309]:
+                        - radio "Do 100 000 km (0)"
+                        - img
+                      - generic [ref=e310]: Do 100 000 km
+                      - generic [ref=e312]: (0)
+                    - generic [ref=e314] [cursor=pointer]:
+                      - generic [ref=e316]:
+                        - radio "Do 150 000 km (0)" [checked]
+                        - img
+                      - generic [ref=e317]: Do 150 000 km
+                      - generic [ref=e319]: (0)
+                    - generic [ref=e321] [cursor=pointer]:
+                      - generic [ref=e323]:
+                        - radio "Do 200 000 km (0)"
+                        - img
+                      - generic [ref=e324]: Do 200 000 km
+                      - generic [ref=e326]: (0)
+                    - generic [ref=e328] [cursor=pointer]:
+                      - generic [ref=e330]:
+                        - radio "Vlastní (0)"
+                        - img
+                      - generic [ref=e331]: Vlastní
+                      - generic [ref=e333]: (0)
+                  - generic [ref=e334]:
+                    - combobox [ref=e336]:
+                      - generic [ref=e338]:
+                        - textbox "Od" [ref=e339]
+                        - button "otevřít nabídku" [ref=e340] [cursor=pointer]:
+                          - img [ref=e342]
+                    - combobox [ref=e346]:
+                      - generic [ref=e348]:
+                        - textbox "Do" [ref=e349]: 150 000
+                        - button "smazat" [ref=e350] [cursor=pointer]:
+                          - img [ref=e352]
+              - generic [ref=e354]:
+                - button "Palivo" [ref=e355] [cursor=pointer]:
+                  - generic [ref=e356]:
+                    - img [ref=e358]
+                    - generic [ref=e360]: Palivo
+                - generic [ref=e365]:
+                  - generic [ref=e367] [cursor=pointer]:
+                    - generic [ref=e369]:
+                      - checkbox "Benzín" [checked]
+                      - img
+                    - generic [ref=e370]: Benzín
+                  - generic [ref=e377] [cursor=pointer]:
+                    - generic [ref=e379]:
+                      - checkbox "Nafta"
+                      - img
+                    - generic [ref=e380]: Nafta
+                  - button "Zobrazit více" [ref=e386] [cursor=pointer]
+              - generic [ref=e387]:
+                - button "Karoserie" [ref=e388] [cursor=pointer]:
+                  - generic [ref=e389]:
+                    - img [ref=e391]
+                    - generic [ref=e393]: Karoserie
+                - generic [ref=e398]:
+                  - generic [ref=e400] [cursor=pointer]:
+                    - generic [ref=e402]:
+                      - checkbox "Kombi"
+                      - img
+                    - generic [ref=e403]: Kombi
+                  - generic [ref=e410] [cursor=pointer]:
+                    - generic [ref=e412]:
+                      - checkbox "SUV"
+                      - img
+                    - generic [ref=e413]: SUV
+                  - generic [ref=e420] [cursor=pointer]:
+                    - generic [ref=e422]:
+                      - checkbox "Sedan/limuzína"
+                      - img
+                    - generic [ref=e423]: Sedan/limuzína
+                  - generic [ref=e430] [cursor=pointer]:
+                    - generic [ref=e432]:
+                      - checkbox "Hatchback"
+                      - img
+                    - generic [ref=e433]: Hatchback
+                  - button "Zobrazit více" [ref=e439] [cursor=pointer]
+              - generic [ref=e440]:
+                - button "Převodovka" [ref=e441] [cursor=pointer]:
+                  - generic [ref=e442]:
+                    - img [ref=e444]
+                    - generic [ref=e446]: Převodovka
+                - generic [ref=e451]:
+                  - generic [ref=e453] [cursor=pointer]:
+                    - generic [ref=e455]:
+                      - checkbox "Manuální"
+                      - img
+                    - generic [ref=e456]: Manuální
+                  - generic [ref=e463] [cursor=pointer]:
+                    - generic [ref=e465]:
+                      - checkbox "Poloautomatická"
+                      - img
+                    - generic [ref=e466]: Poloautomatická
+                  - generic [ref=e473] [cursor=pointer]:
+                    - generic [ref=e475]:
+                      - checkbox "Automatická"
+                      - img
+                    - generic [ref=e476]: Automatická
+              - generic [ref=e482]:
+                - button "Pohon kol" [ref=e483] [cursor=pointer]:
+                  - generic [ref=e484]:
+                    - img [ref=e486]
+                    - generic [ref=e488]: Pohon kol
+                - generic [ref=e493]:
+                  - generic [ref=e495] [cursor=pointer]:
+                    - generic [ref=e497]:
+                      - checkbox "4x4"
+                      - img
+                    - generic [ref=e498]: 4x4
+                  - generic [ref=e505] [cursor=pointer]:
+                    - generic [ref=e507]:
+                      - checkbox "Pohon předních kol"
+                      - img
+                    - generic [ref=e508]: Pohon předních kol
+                  - generic [ref=e515] [cursor=pointer]:
+                    - generic [ref=e517]:
+                      - checkbox "Pohon zadních kol"
+                      - img
+                    - generic [ref=e518]: Pohon zadních kol
+              - generic [ref=e524]:
+                - button "Výkon" [ref=e525] [cursor=pointer]:
+                  - generic [ref=e526]:
+                    - img [ref=e528]
+                    - generic [ref=e530]: Výkon
+                - generic [ref=e533]:
+                  - generic [ref=e534]:
+                    - generic [ref=e536] [cursor=pointer]:
+                      - generic [ref=e538]:
+                        - radio "Od 75 kW (0)"
+                        - img
+                      - generic [ref=e539]: Od 75 kW
+                      - generic [ref=e541]: (0)
+                    - generic [ref=e543] [cursor=pointer]:
+                      - generic [ref=e545]:
+                        - radio "Od 100 kW (0)"
+                        - img
+                      - generic [ref=e546]: Od 100 kW
+                      - generic [ref=e548]: (0)
+                    - generic [ref=e550] [cursor=pointer]:
+                      - generic [ref=e552]:
+                        - radio "Od 125 kW (0)"
+                        - img
+                      - generic [ref=e553]: Od 125 kW
+                      - generic [ref=e555]: (0)
+                    - generic [ref=e557] [cursor=pointer]:
+                      - generic [ref=e559]:
+                        - radio "Vlastní (0)" [checked]
+                        - img
+                      - generic [ref=e560]: Vlastní
+                      - generic [ref=e562]: (0)
+                  - generic [ref=e563]:
+                    - combobox [ref=e565]:
+                      - generic [ref=e567]:
+                        - textbox "Od" [ref=e568]
+                        - button "otevřít nabídku" [ref=e569] [cursor=pointer]:
+                          - img [ref=e571]
+                    - combobox [ref=e575]:
+                      - generic [ref=e577]:
+                        - textbox "Do" [ref=e578]
+                        - button "otevřít nabídku" [ref=e579] [cursor=pointer]:
+                          - img [ref=e581]
+              - button "Objem" [ref=e584] [cursor=pointer]:
+                - generic [ref=e585]:
+                  - img [ref=e587]
+                  - generic [ref=e589]: Objem
+              - generic [ref=e590]:
+                - button "Výbava" [ref=e591] [cursor=pointer]:
+                  - generic [ref=e592]:
+                    - img [ref=e594]
+                    - generic [ref=e596]: Výbava
+                - generic [ref=e601]:
+                  - generic [ref=e602]: Nejčastější výbava
+                  - generic [ref=e604]:
+                    - generic [ref=e606] [cursor=pointer]:
+                      - generic [ref=e608]:
+                        - checkbox "Adaptivní tempomat"
+                        - img
+                      - generic [ref=e609]: Adaptivní tempomat
+                    - generic [ref=e616] [cursor=pointer]:
+                      - generic [ref=e618]:
+                        - checkbox "El. sklopná zrcátka"
+                        - img
+                      - generic [ref=e619]: El. sklopná zrcátka
+                    - generic [ref=e626] [cursor=pointer]:
+                      - generic [ref=e628]:
+                        - checkbox "Panoramatická střecha"
+                        - img
+                      - generic [ref=e629]: Panoramatická střecha
+                    - generic [ref=e636] [cursor=pointer]:
+                      - generic [ref=e638]:
+                        - checkbox "Parkovací kamera"
+                        - img
+                      - generic [ref=e639]: Parkovací kamera
+                    - generic [ref=e646] [cursor=pointer]:
+                      - generic [ref=e648]:
+                        - checkbox "Parkovací senzory"
+                        - img
+                      - generic [ref=e649]: Parkovací senzory
+                    - generic [ref=e656] [cursor=pointer]:
+                      - generic [ref=e658]:
+                        - checkbox "Satelitní navigace"
+                        - img
+                      - generic [ref=e659]: Satelitní navigace
+                    - generic [ref=e666] [cursor=pointer]:
+                      - generic [ref=e668]:
+                        - checkbox "Tažné zařízení"
+                        - img
+                      - generic [ref=e669]: Tažné zařízení
+                    - generic [ref=e676] [cursor=pointer]:
+                      - generic [ref=e678]:
+                        - checkbox "Tempomat"
+                        - img
+                      - generic [ref=e679]: Tempomat
+                    - generic [ref=e686] [cursor=pointer]:
+                      - generic [ref=e688]:
+                        - checkbox "Vyhřívaná sedadla"
+                        - img
+                      - generic [ref=e689]: Vyhřívaná sedadla
+                    - button "Zobrazit více" [ref=e695] [cursor=pointer]
+              - button "Spotřeba" [ref=e697] [cursor=pointer]:
+                - generic [ref=e698]:
+                  - img [ref=e700]
+                  - generic [ref=e702]: Spotřeba
+              - button "Klimatizace" [ref=e704] [cursor=pointer]:
+                - generic [ref=e705]:
+                  - img [ref=e707]
+                  - generic [ref=e709]: Klimatizace
+              - button "Počet airbagů" [ref=e711] [cursor=pointer]:
+                - generic [ref=e712]:
+                  - img [ref=e714]
+                  - generic [ref=e716]: Počet airbagů
+              - button "Počet míst" [ref=e718] [cursor=pointer]:
+                - generic [ref=e719]:
+                  - img [ref=e721]
+                  - generic [ref=e723]: Počet míst
+              - button "Počet dveří" [ref=e725] [cursor=pointer]:
+                - generic [ref=e726]:
+                  - img [ref=e728]
+                  - generic [ref=e730]: Počet dveří
+              - button "Barva" [ref=e732] [cursor=pointer]:
+                - generic [ref=e733]:
+                  - img [ref=e735]
+                  - generic [ref=e737]: Barva
+              - button "Místo prodeje" [ref=e739] [cursor=pointer]:
+                - generic [ref=e740]:
+                  - img [ref=e742]
+                  - generic [ref=e744]: Místo prodeje
+              - button "Země původu" [ref=e746] [cursor=pointer]:
+                - generic [ref=e747]:
+                  - img [ref=e749]
+                  - generic [ref=e751]: Země původu
+              - button "Typ prodejce" [ref=e753] [cursor=pointer]:
+                - generic [ref=e754]:
+                  - img [ref=e756]
+                  - generic [ref=e758]: Typ prodejce
+              - button "Ověřovací programy" [ref=e760] [cursor=pointer]:
+                - generic [ref=e761]:
+                  - img [ref=e763]
+                  - generic [ref=e765]: Ověřovací programy
+              - button "Historie vozidla" [ref=e767] [cursor=pointer]:
+                - generic [ref=e768]:
+                  - img [ref=e770]
+                  - generic [ref=e772]: Historie vozidla
+              - button "Stáří inzerátu" [ref=e774] [cursor=pointer]:
+                - generic [ref=e775]:
+                  - img [ref=e777]
+                  - generic [ref=e779]: Stáří inzerátu
+              - button "Pro zdravotně postižené" [ref=e781] [cursor=pointer]:
+                - generic [ref=e782]:
+                  - img [ref=e784]
+                  - generic [ref=e786]: Pro zdravotně postižené
+            - generic [ref=e787]:
+              - generic [ref=e788]:
+                - link "Zpět na hlavní stranu" [ref=e791] [cursor=pointer]:
+                  - /url: https://www.sauto.cz/
+                  - img [ref=e793]
+                  - generic [ref=e795]: Zpět na hlavní stranu
+                - heading "Škoda Octavia" [level=1] [ref=e796]:
+                  - link "Škoda Octavia" [ref=e797] [cursor=pointer]:
+                    - /url: https://www.sauto.cz/inzerce/osobni/skoda/octavia
+              - list [ref=e802]:
+                - listitem [ref=e803]:
+                  - button "Do 150 000 km" [ref=e805] [cursor=pointer]:
+                    - generic [ref=e806]: Do 150 000 km
+                    - img [ref=e808]
+                - listitem [ref=e810]:
+                  - button "Benzín" [ref=e812] [cursor=pointer]:
+                    - generic [ref=e813]: Benzín
+                    - img [ref=e815]
+                - listitem [ref=e817]:
+                  - button "Do 250 000 Kč" [ref=e819] [cursor=pointer]:
+                    - generic [ref=e820]: Do 250 000 Kč
+                    - img [ref=e822]
+                - listitem [ref=e824]:
+                  - button "Od roku 2015" [ref=e826] [cursor=pointer]:
+                    - generic [ref=e827]: Od roku 2015
+                    - img [ref=e829]
+                - listitem [ref=e831]:
+                  - button "Octavia" [ref=e833] [cursor=pointer]:
+                    - generic [ref=e834]: Octavia
+                    - img [ref=e836]
+                - listitem [ref=e838]:
+                  - button "Škoda" [ref=e840] [cursor=pointer]:
+                    - generic [ref=e841]: Škoda
+                    - img [ref=e843]
+                - listitem [ref=e845]:
+                  - button "Předváděcí" [ref=e847] [cursor=pointer]:
+                    - generic [ref=e848]: Předváděcí
+                    - img [ref=e850]
+                - listitem [ref=e852]:
+                  - button "Ojeté" [ref=e854] [cursor=pointer]:
+                    - generic [ref=e855]: Ojeté
+                    - img [ref=e857]
+                - listitem [ref=e859]:
+                  - button "Nové" [ref=e861] [cursor=pointer]:
+                    - generic [ref=e862]: Nové
+                    - img [ref=e864]
+              - generic [ref=e866]:
+                - generic [ref=e867]:
+                  - generic [ref=e868]: 29 inzerátů
+                  - generic [ref=e870]:
+                    - button "Informace k řazení" [ref=e872] [cursor=pointer]:
+                      - img [ref=e874]
+                    - generic [ref=e876]: "Seřadit:"
+                    - button "Seřazeno dle datum vložení" [ref=e877] [cursor=pointer]:
+                      - text: Datum vložení
+                      - img [ref=e879]
+                - generic [ref=e883]:
+                  - generic [ref=e884]:
+                    - text: Chcete-li uložit hledání, přihlašte se.
+                    - generic [ref=e885]: Uložte si hledání a dostávejte upozornění na nově přidané inzeráty.
+                  - button "Přihlásit se" [ref=e886] [cursor=pointer]:
+                    - generic: Přihlásit se
+                - list [ref=e887]:
+                  - listitem [ref=e888]:
+                    - generic [ref=e890] [cursor=pointer]:
+                      - generic [ref=e891]:
+                        - link "Škoda Octavia, 1.0 TSI, Klima" [ref=e892]:
+                          - /url: https://www.sauto.cz/osobni/detail/skoda/octavia/210479180
+                          - generic [ref=e893]:
+                            - text: Škoda Octavia,
+                            - generic [ref=e894]: 1.0 TSI, Klima
+                        - generic [ref=e896]: 2018, 83 856 km, Benzín, Manuální
+                        - generic [ref=e897]:
+                          - generic [ref=e898]: 250 000 Kč
+                          - generic [ref=e899]:
+                            - generic [ref=e900]: AAA AUTO
+                            - generic [ref=e901]: Hlavní město Praha
+                      - generic [ref=e903]:
+                        - button "Přidat do oblíbených" [ref=e904]:
+                          - img "Přidat do oblíbených" [ref=e905]
+                        - generic: Inzerát byl odebran z oblíbených.
+                  - listitem [ref=e912]:
+                    - generic [ref=e914] [cursor=pointer]:
+                      - generic [ref=e915]:
+                        - link "Škoda Octavia, Ambition Plus 1,4TSi 110kW" [ref=e916]:
+                          - /url: https://www.sauto.cz/osobni/detail/skoda/octavia/210467861
+                          - generic [ref=e917]:
+                            - text: Škoda Octavia,
+                            - generic [ref=e918]: Ambition Plus 1,4TSi 110kW
+                        - generic [ref=e920]: 2015, 139 441 km, Benzín, Manuální
+                        - generic [ref=e921]:
+                          - generic [ref=e922]: 249 888 Kč
+                          - generic [ref=e923]:
+                            - generic [ref=e924]: BENO Říčany, s.r.o.
+                            - generic [ref=e925]: Praha-východ
+                      - generic [ref=e927]:
+                        - button "Přidat do oblíbených" [ref=e928]:
+                          - img "Přidat do oblíbených" [ref=e929]
+                        - generic: Inzerát byl odebran z oblíbených.
+                  - listitem [ref=e936]:
+                    - generic [ref=e938] [cursor=pointer]:
+                      - generic [ref=e939]:
+                        - link "Škoda Octavia, 1.4 TSI, Elegance, NOVÁ CENA" [ref=e940]:
+                          - /url: https://www.sauto.cz/osobni/detail/skoda/octavia/209628624
+                          - generic [ref=e941]:
+                            - text: Škoda Octavia,
+                            - generic [ref=e942]: 1.4 TSI, Elegance, NOVÁ CENA
+                        - generic [ref=e944]: 2015, 129 897 km, Benzín, Automatická
+                        - generic [ref=e945]:
+                          - generic [ref=e946]: 230 000 Kč
+                          - generic [ref=e947]:
+                            - generic [ref=e948]: AAA AUTO
+                            - generic [ref=e949]: Hlavní město Praha
+                      - generic [ref=e950]:
+                        - generic "Prověření CEBIA" [ref=e951]:
+                          - img [ref=e953]
+                        - generic [ref=e955]:
+                          - button "Přidat do oblíbených" [ref=e956]:
+                            - img "Přidat do oblíbených" [ref=e957]
+                          - generic: Inzerát byl odebran z oblíbených.
+                  - listitem [ref=e964]:
+                    - generic [ref=e966] [cursor=pointer]:
+                      - generic [ref=e967]:
+                        - link "Škoda Octavia, 1.0TSI,85kW,CZ,Ambition" [ref=e968]:
+                          - /url: https://www.sauto.cz/osobni/detail/skoda/octavia/210465995
+                          - generic [ref=e969]:
+                            - text: Škoda Octavia,
+                            - generic [ref=e970]: 1.0TSI,85kW,CZ,Ambition
+                        - generic [ref=e972]: 2017, 111 496 km, Benzín, Manuální
+                        - generic [ref=e973]:
+                          - generic [ref=e974]: 229 900 Kč
+                          - generic [ref=e975]:
+                            - generic [ref=e976]: Emil Frey - Ojeté vozy - Černý Most budova B
+                            - generic [ref=e977]: Hlavní město Praha
+                      - generic [ref=e979]:
+                        - button "Přidat do oblíbených" [ref=e980]:
+                          - img "Přidat do oblíbených" [ref=e981]
+                        - generic: Inzerát byl odebran z oblíbených.
+                  - listitem [ref=e988]:
+                    - generic [ref=e990] [cursor=pointer]:
+                      - generic [ref=e991]:
+                        - link "Škoda Octavia, RS TSI DSG Canton" [ref=e992]:
+                          - /url: https://www.sauto.cz/osobni/detail/skoda/octavia/210013494
+                          - generic [ref=e993]:
+                            - text: Škoda Octavia,
+                            - generic [ref=e994]: RS TSI DSG Canton
+                        - generic [ref=e996]: 2018, 146 000 km, Benzín, Automatická
+                        - generic [ref=e997]:
+                          - generic [ref=e998]: 235 000 Kč
+                          - generic [ref=e999]:
+                            - generic [ref=e1000]: Soukromý prodejce
+                            - generic [ref=e1001]: Hlavní město Praha
+                      - generic [ref=e1003]:
+                        - button "Přidat do oblíbených" [ref=e1004]:
+                          - img "Přidat do oblíbených" [ref=e1005]
+                        - generic: Inzerát byl odebran z oblíbených.
+                  - listitem [ref=e1012]:
+                    - generic [ref=e1014] [cursor=pointer]:
+                      - generic [ref=e1015]:
+                        - link "Škoda Octavia, Ostavia III 1,4 TSi" [ref=e1016]:
+                          - /url: https://www.sauto.cz/osobni/detail/skoda/octavia/210432329
+                          - generic [ref=e1017]:
+                            - text: Škoda Octavia,
+                            - generic [ref=e1018]: Ostavia III 1,4 TSi
+                        - generic [ref=e1020]: 2017, 118 000 km, Benzín, Manuální
+                        - generic [ref=e1021]:
+                          - generic [ref=e1022]: 249 900 Kč
+                          - generic [ref=e1023]:
+                            - generic [ref=e1024]: Soukromý prodejce
+                            - generic [ref=e1025]: Trutnov
+                      - generic [ref=e1027]:
+                        - button "Přidat do oblíbených" [ref=e1028]:
+                          - img "Přidat do oblíbených" [ref=e1029]
+                        - generic: Inzerát byl odebran z oblíbených.
+                  - listitem [ref=e1036]:
+                    - generic [ref=e1038] [cursor=pointer]:
+                      - generic [ref=e1039]:
+                        - link "Škoda Octavia, Combi 1.0 TSI 85 kW M6F Ambiti" [ref=e1040]:
+                          - /url: https://www.sauto.cz/osobni/detail/skoda/octavia/210428924
+                          - generic [ref=e1041]:
+                            - text: Škoda Octavia,
+                            - generic [ref=e1042]: Combi 1.0 TSI 85 kW M6F Ambiti
+                        - generic [ref=e1044]: 2018, 149 021 km, Benzín, Manuální
+                        - generic [ref=e1045]:
+                          - generic [ref=e1046]: 249 000 Kč
+                          - generic [ref=e1047]:
+                            - generic [ref=e1048]: SAMOHÝL MOTOR a.s. - Škoda Zlín
+                            - generic [ref=e1049]: Zlín
+                      - generic [ref=e1051]:
+                        - button "Přidat do oblíbených" [ref=e1052]:
+                          - img "Přidat do oblíbených" [ref=e1053]
+                        - generic: Inzerát byl odebran z oblíbených.
+                  - listitem [ref=e1060]:
+                    - generic [ref=e1062] [cursor=pointer]:
+                      - generic [ref=e1063]:
+                        - link "Škoda Octavia, Combi 1.2 TSi 81kW Edice JOY" [ref=e1064]:
+                          - /url: https://www.sauto.cz/osobni/detail/skoda/octavia/210250274
+                          - generic [ref=e1065]:
+                            - text: Škoda Octavia,
+                            - generic [ref=e1066]: Combi 1.2 TSi 81kW Edice JOY
+                        - generic [ref=e1068]: 2016, 101 953 km, Benzín, Manuální
+                        - generic [ref=e1069]:
+                          - generic [ref=e1070]: 250 000 Kč
+                          - generic [ref=e1071]:
+                            - generic [ref=e1072]: Soukromý prodejce
+                            - generic [ref=e1073]: Prostějov
+                      - generic [ref=e1074]:
+                        - generic "Prověření CEBIA" [ref=e1075]:
+                          - img [ref=e1077]
+                        - generic [ref=e1079]:
+                          - button "Přidat do oblíbených" [ref=e1080]:
+                            - img "Přidat do oblíbených" [ref=e1081]
+                          - generic: Inzerát byl odebran z oblíbených.
+                  - listitem [ref=e1088]:
+                    - generic [ref=e1090] [cursor=pointer]:
+                      - generic [ref=e1091]:
+                        - link "Škoda Octavia, 1.4 TSi,Ambition,+kola" [ref=e1092]:
+                          - /url: https://www.sauto.cz/osobni/detail/skoda/octavia/210330641
+                          - generic [ref=e1093]:
+                            - text: Škoda Octavia,
+                            - generic [ref=e1094]: 1.4 TSi,Ambition,+kola
+                        - generic [ref=e1096]: 2016, 123 738 km, Benzín, Manuální
+                        - generic [ref=e1097]:
+                          - generic [ref=e1098]: 235 000 Kč
+                          - generic [ref=e1099]:
+                            - generic [ref=e1100]: Auto ESA
+                            - generic [ref=e1101]: Hlavní město Praha
+                      - generic [ref=e1102]:
+                        - generic: Auto domů
+                        - generic [ref=e1103]:
+                          - button "Přidat do oblíbených" [ref=e1104]:
+                            - img "Přidat do oblíbených" [ref=e1105]
+                          - generic: Inzerát byl odebran z oblíbených.
+                  - listitem [ref=e1112]:
+                    - generic [ref=e1114] [cursor=pointer]:
+                      - generic [ref=e1115]:
+                        - link "Škoda Octavia, 1.0 TSI, Ambition" [ref=e1116]:
+                          - /url: https://www.sauto.cz/osobni/detail/skoda/octavia/210356036
+                          - generic [ref=e1117]:
+                            - text: Škoda Octavia,
+                            - generic [ref=e1118]: 1.0 TSI, Ambition
+                        - generic [ref=e1120]: 2018, 120 485 km, Benzín, Manuální
+                        - generic [ref=e1121]:
+                          - generic [ref=e1122]: 230 000 Kč
+                          - generic [ref=e1123]:
+                            - generic [ref=e1124]: AAA AUTO
+                            - generic [ref=e1125]: Hlavní město Praha
+                      - generic [ref=e1126]:
+                        - generic "Prověření CEBIA" [ref=e1127]:
+                          - img [ref=e1129]
+                        - generic [ref=e1131]:
+                          - button "Přidat do oblíbených" [ref=e1132]:
+                            - img "Přidat do oblíbených" [ref=e1133]
+                          - generic: Inzerát byl odebran z oblíbených.
+                  - listitem [ref=e1140]:
+                    - generic [ref=e1142] [cursor=pointer]:
+                      - generic [ref=e1143]:
+                        - link "Škoda Octavia, 1.8TSI, 4X4, 132kW, DSG" [ref=e1144]:
+                          - /url: https://www.sauto.cz/osobni/detail/skoda/octavia/209873511
+                          - generic [ref=e1145]:
+                            - text: Škoda Octavia,
+                            - generic [ref=e1146]: 1.8TSI, 4X4, 132kW, DSG
+                        - generic [ref=e1148]: 2016, 135 000 km, Benzín, Automatická
+                        - generic [ref=e1149]:
+                          - generic [ref=e1150]: 179 000 Kč
+                          - generic [ref=e1151]:
+                            - generic [ref=e1152]: RKN, s.r.o.
+                            - generic [ref=e1153]: České Budějovice
+                      - generic [ref=e1155]:
+                        - button "Přidat do oblíbených" [ref=e1156]:
+                          - img "Přidat do oblíbených" [ref=e1157]
+                        - generic: Inzerát byl odebran z oblíbených.
+                  - listitem [ref=e1164]:
+                    - generic [ref=e1166] [cursor=pointer]:
+                      - generic [ref=e1167]:
+                        - link "Škoda Octavia, 1 maj.plný servis ZÁRUKA 1 ROK" [ref=e1168]:
+                          - /url: https://www.sauto.cz/osobni/detail/skoda/octavia/210383447
+                          - generic [ref=e1169]:
+                            - text: Škoda Octavia,
+                            - generic [ref=e1170]: 1 maj.plný servis ZÁRUKA 1 ROK
+                        - generic [ref=e1172]: 2016, 128 500 km, Benzín, Manuální
+                        - generic [ref=e1173]:
+                          - generic [ref=e1174]: 199 999 Kč
+                          - generic [ref=e1175]:
+                            - generic [ref=e1176]: Auto-Bari
+                            - generic [ref=e1177]: Karlovy Vary
+                      - generic [ref=e1179]:
+                        - button "Přidat do oblíbených" [ref=e1180]:
+                          - img "Přidat do oblíbených" [ref=e1181]
+                        - generic: Inzerát byl odebran z oblíbených.
+                  - listitem [ref=e1188]:
+                    - generic [ref=e1190] [cursor=pointer]:
+                      - generic [ref=e1191]:
+                        - link "Škoda Octavia, 1.4 TSi,AC,park.čidla" [ref=e1192]:
+                          - /url: https://www.sauto.cz/osobni/detail/skoda/octavia/210378488
+                          - generic [ref=e1193]:
+                            - text: Škoda Octavia,
+                            - generic [ref=e1194]: 1.4 TSi,AC,park.čidla
+                        - generic [ref=e1196]: 2016, 128 843 km, Benzín, Manuální
+                        - generic [ref=e1197]:
+                          - generic [ref=e1198]: 240 000 Kč
+                          - generic [ref=e1199]:
+                            - generic [ref=e1200]: Auto ESA
+                            - generic [ref=e1201]: Hlavní město Praha
+                      - generic [ref=e1202]:
+                        - generic: Auto domů
+                        - generic [ref=e1203]:
+                          - button "Přidat do oblíbených" [ref=e1204]:
+                            - img "Přidat do oblíbených" [ref=e1205]
+                          - generic: Inzerát byl odebran z oblíbených.
+                  - listitem [ref=e1212]:
+                    - generic [ref=e1214] [cursor=pointer]:
+                      - generic [ref=e1215]:
+                        - link "Škoda Octavia, 1.2 TSI 81kW Ambition Fresh" [ref=e1216]:
+                          - /url: https://www.sauto.cz/osobni/detail/skoda/octavia/209638005
+                          - generic [ref=e1217]:
+                            - text: Škoda Octavia,
+                            - generic [ref=e1218]: 1.2 TSI 81kW Ambition Fresh
+                        - generic [ref=e1220]: 2016, 140 230 km, Benzín, Manuální
+                        - generic [ref=e1221]:
+                          - generic [ref=e1222]: 212 000 Kč
+                          - generic [ref=e1223]:
+                            - generic [ref=e1224]: AUTOSALON KUDRNA CZ a.s.
+                            - generic [ref=e1225]: Pelhřimov
+                      - generic [ref=e1227]:
+                        - button "Přidat do oblíbených" [ref=e1228]:
+                          - img "Přidat do oblíbených" [ref=e1229]
+                        - generic: Inzerát byl odebran z oblíbených.
+                  - listitem [ref=e1236]:
+                    - generic [ref=e1238] [cursor=pointer]:
+                      - generic [ref=e1239]:
+                        - link "Škoda Octavia, 1.4 TSi,1.maj,ČR,Fresh" [ref=e1240]:
+                          - /url: https://www.sauto.cz/osobni/detail/skoda/octavia/209769975
+                          - generic [ref=e1241]:
+                            - text: Škoda Octavia,
+                            - generic [ref=e1242]: 1.4 TSi,1.maj,ČR,Fresh
+                        - generic [ref=e1244]: 2015, 95 965 km, Benzín, Automatická
+                        - generic [ref=e1245]:
+                          - generic [ref=e1246]: 249 000 Kč
+                          - generic [ref=e1247]:
+                            - generic [ref=e1248]: Auto ESA
+                            - generic [ref=e1249]: Hlavní město Praha
+                      - generic [ref=e1250]:
+                        - generic: Auto domů
+                        - generic [ref=e1251]:
+                          - button "Přidat do oblíbených" [ref=e1252]:
+                            - img "Přidat do oblíbených" [ref=e1253]
+                          - generic: Inzerát byl odebran z oblíbených.
+                  - listitem [ref=e1260]:
+                    - generic [ref=e1262] [cursor=pointer]:
+                      - generic [ref=e1263]:
+                        - link "Škoda Octavia, 1,4 103 KW PLNY SERVIS" [ref=e1264]:
+                          - /url: https://www.sauto.cz/osobni/detail/skoda/octavia/210373022
+                          - generic [ref=e1265]:
+                            - text: Škoda Octavia,
+                            - generic [ref=e1266]: 1,4 103 KW PLNY SERVIS
+                        - generic [ref=e1268]: 2015, 135 425 km, Benzín, Manuální
+                        - generic [ref=e1269]:
+                          - generic [ref=e1270]: 219 999 Kč
+                          - generic [ref=e1271]:
+                            - generic [ref=e1272]: Auto-Bari
+                            - generic [ref=e1273]: Karlovy Vary
+                      - generic [ref=e1275]:
+                        - button "Přidat do oblíbených" [ref=e1276]:
+                          - img "Přidat do oblíbených" [ref=e1277]
+                        - generic: Inzerát byl odebran z oblíbených.
+                  - listitem [ref=e1284]:
+                    - generic [ref=e1286] [cursor=pointer]:
+                      - generic [ref=e1287]:
+                        - link "Škoda Octavia, 1.4 103 KW MANUAL ZARUKA" [ref=e1288]:
+                          - /url: https://www.sauto.cz/osobni/detail/skoda/octavia/210372971
+                          - generic [ref=e1289]:
+                            - text: Škoda Octavia,
+                            - generic [ref=e1290]: 1.4 103 KW MANUAL ZARUKA
+                        - generic [ref=e1292]: 2015, 128 500 km, Benzín, Manuální
+                        - generic [ref=e1293]:
+                          - generic [ref=e1294]: 229 999 Kč
+                          - generic [ref=e1295]:
+                            - generic [ref=e1296]: Auto-Bari
+                            - generic [ref=e1297]: Karlovy Vary
+                      - generic [ref=e1299]:
+                        - button "Přidat do oblíbených" [ref=e1300]:
+                          - img "Přidat do oblíbených" [ref=e1301]
+                        - generic: Inzerát byl odebran z oblíbených.
+                  - listitem [ref=e1308]:
+                    - generic [ref=e1310] [cursor=pointer]:
+                      - generic [ref=e1311]:
+                        - link "Škoda Octavia, 1.0 TSI, Automat, Serv.kniha" [ref=e1312]:
+                          - /url: https://www.sauto.cz/osobni/detail/skoda/octavia/210358439
+                          - generic [ref=e1313]:
+                            - text: Škoda Octavia,
+                            - generic [ref=e1314]: 1.0 TSI, Automat, Serv.kniha
+                        - generic [ref=e1316]: 2017, 126 988 km, Benzín, Automatická
+                        - generic [ref=e1317]:
+                          - generic [ref=e1318]: 250 000 Kč
+                          - generic [ref=e1319]:
+                            - generic [ref=e1320]: AAA AUTO
+                            - generic [ref=e1321]: Hlavní město Praha
+                      - generic [ref=e1323]:
+                        - button "Přidat do oblíbených" [ref=e1324]:
+                          - img "Přidat do oblíbených" [ref=e1325]
+                        - generic: Inzerát byl odebran z oblíbených.
+                  - listitem [ref=e1332]:
+                    - generic [ref=e1334] [cursor=pointer]:
+                      - generic [ref=e1335]:
+                        - link "Škoda Octavia, 1.8 TSI, Style, 4X4, Automat" [ref=e1336]:
+                          - /url: https://www.sauto.cz/osobni/detail/skoda/octavia/209756100
+                          - generic [ref=e1337]:
+                            - text: Škoda Octavia,
+                            - generic [ref=e1338]: 1.8 TSI, Style, 4X4, Automat
+                        - generic [ref=e1340]: 2015, 147 040 km, Benzín, Automatická
+                        - generic [ref=e1341]:
+                          - generic [ref=e1342]: 250 000 Kč
+                          - generic [ref=e1343]:
+                            - generic [ref=e1344]: AAA AUTO
+                            - generic [ref=e1345]: Hlavní město Praha
+                      - generic [ref=e1346]:
+                        - generic "Prověření CEBIA" [ref=e1347]:
+                          - img [ref=e1349]
+                        - generic [ref=e1351]:
+                          - button "Přidat do oblíbených" [ref=e1352]:
+                            - img "Přidat do oblíbených" [ref=e1353]
+                          - generic: Inzerát byl odebran z oblíbených.
+                  - listitem [ref=e1360]:
+                    - generic [ref=e1362] [cursor=pointer]:
+                      - generic [ref=e1363]:
+                        - link "Škoda Octavia, 1 maj.plný servis ZÁRUKA 1 ROK" [ref=e1364]:
+                          - /url: https://www.sauto.cz/osobni/detail/skoda/octavia/210310202
+                          - generic [ref=e1365]:
+                            - text: Škoda Octavia,
+                            - generic [ref=e1366]: 1 maj.plný servis ZÁRUKA 1 ROK
+                        - generic [ref=e1368]: 2015, 86 500 km, Benzín, Manuální
+                        - generic [ref=e1369]:
+                          - generic [ref=e1370]: 219 999 Kč
+                          - generic [ref=e1371]:
+                            - generic [ref=e1372]: Auto-Bari
+                            - generic [ref=e1373]: Karlovy Vary
+                      - generic [ref=e1375]:
+                        - button "Přidat do oblíbených" [ref=e1376]:
+                          - img "Přidat do oblíbených" [ref=e1377]
+                        - generic: Inzerát byl odebran z oblíbených.
+                  - listitem [ref=e1384]:
+                    - generic [ref=e1385]: Doporučené inzeráty
+                    - list [ref=e1386]:
+                      - listitem [ref=e1387]:
+                        - generic [ref=e1389] [cursor=pointer]:
+                          - generic [ref=e1390]:
+                            - link "Škoda Octavia, 1.4 TSI iV, Style, Automat, ČR" [ref=e1391]:
+                              - /url: https://www.sauto.cz/osobni/detail/skoda/octavia/210107036
+                              - generic [ref=e1392]:
+                                - text: Škoda Octavia,
+                                - generic [ref=e1393]: 1.4 TSI iV, Style, Automat, ČR
+                            - generic [ref=e1395]: 2021, 106 214 km, Hybridní, Automatická
+                            - generic [ref=e1396]:
+                              - generic [ref=e1397]: 470 000 Kč
+                              - generic [ref=e1398]:
+                                - generic [ref=e1399]: AAA AUTO
+                                - generic [ref=e1400]: Hlavní město Praha
+                          - generic [ref=e1402]:
+                            - button "Přidat do oblíbených" [ref=e1403]:
+                              - img "Přidat do oblíbených" [ref=e1404]
+                            - generic: Inzerát byl odebran z oblíbených.
+                  - listitem [ref=e1411]:
+                    - generic [ref=e1632]:
+                      - iframe [ref=e1634]:
+                        - generic [ref=f156e7] [cursor=pointer]:
+                          - generic [ref=f156e9]:
+                            - img [ref=f156e21]
+                            - img [ref=f156e23]
+                          - generic [ref=f156e26]:
+                            - generic [ref=f156e27]:
+                              - generic [ref=f156e28]: Škoda Octavia 2020, Combi
+                              - generic [ref=f156e29]: 2.0 TDI, Navi, Tempomat, Park. senzory, 210 804 km
+                              - generic [ref=f156e31]: 250 000 Kč
+                            - generic [ref=f156e32]:
+                              - generic [ref=f156e33]: Škoda Octavia 2019, Combi
+                              - generic [ref=f156e34]: 1.6 TDI, Automat, Kůže, Navi, Tempomat, 296 727 km
+                              - generic [ref=f156e36]: 170 000 Kč
+                            - generic [ref=f156e37]:
+                              - generic [ref=f156e38]: Škoda Octavia 2017, Combi
+                              - generic [ref=f156e39]: 1.8 TSI, Automat, ČR,2.maj, Style Plus, 93 477 km
+                              - generic [ref=f156e41]: 270 000 Kč
+                      - link "advert-paw" [ref=e1636] [cursor=pointer]:
+                        - /url: https://ssp.seznam.cz/ad-info#eyJhIjpbeyJpIjoiQS00MTQ5NzkyIiwiYiI6IkFVUkVTIEhvbGRpbmdzIGEucy4iLCJwIjoiQVVSRVMgSG9sZGluZ3MgYS5zLiIsInIiOlsyXX1dLCJzIjoxLCJsIjowfQ
+                        - img "advert-paw" [ref=e1638]
+                  - listitem [ref=e1639]:
+                    - generic [ref=e1644]:
+                      - link "2020 Skoda Octavia" [ref=e1645] [cursor=pointer]:
+                        - /url: https://ams.creativecdn.com/ad/clicks?tk=fVhBZg7mAEy-LcecZof2mZZKUu-T5IbW_NRvZ6ltQRcWXWCn72Sv7toILsKBpRUxgwE5X-xVrzxoqMSCKn8RQ1AUc5lSvv6YwxSTOFBlMlLB6qkzXwtEJ6AfYLqr41LQ0OQoInvV2aB84hbtp_rgg-HTXQkJqNBLoef5j8vDrdP7TLzMQwxTemcQSxo4KH2Ng4siMiPLAWBF_9RX7jQIZiNO3Yf9EQbFH12INFlCwhZLgn_qHbY7l1ykpJHlVibISHFTsopMsiofd_YZGJi_rM0kCP813LDf5k0HltEaItSSXwuwwaafROKz5vK3mMVBHZccI73VMBEbXOyWailj3Gj4Gtnu14Fk5AWdc20-UNPQTS1my8YgCBE6wru21VnXUwcoflN8LaTbwLeyTrAUc061DZz1Sk-nkfKx-XhM_doFeb259jdYwkYwNBzZVwV3xxJmJXx40kibyCdUlD6Vr6Q8C54gIYI0h9lMTukqflO00EbIx6Ehs_jX780wjEy5CInISwTXWxVRZfQ0OSeJ9F3NgZqLk-7KHX9Xdp50Kq-fKOproHBaXgTe-LK9baFoVC9-4dO4FfX1vs3xJc4WSG8SmTDUYn1BklpXLGD7vu4DwDvnEGb3gQyx48gcP_Bg21mmTRTKE5Qz_YuVt_wIpAE
+                        - generic [ref=e1646]: "2020"
+                        - generic [ref=e1648]: Skoda Octavia
+                      - link "Reklama" [ref=e1650] [cursor=pointer]:
+                        - /url: https://ssp.seznam.cz/ad-info#eyJhIjpbeyJpIjoiUC1YYjFESk50SEVSck44NzdBeTlLdiIsInIiOlsyXX1dLCJzIjoxLCJsIjowfQ
+                - button "Další stránka" [ref=e1414] [cursor=pointer]:
+                  - generic:
+                    - img
+                  - generic: Další stránka
+          - generic [ref=e1655]:
+            - iframe [ref=e1657]:
+              - generic [ref=f157e2]:
+                - iframe [ref=f157e3]:
+                  - generic [active] [ref=f158e1]:
+                    - link [ref=f158e3] [cursor=pointer]:
+                      - /url: https://optout.rtbhouse.com/?utm_source=optout_icon&oot=4AUYupC1vJOmyQlq8bIGhvJm6Y36gq3C74zPVCJyfo_cdTvh6t7LIRqj9uzIEud7wNYYKF3xsXWlDKL8v2n4RgzgdpjZLafx53Rvl0Lg2koB&dsa_show=0&dsa_behalf=AURES+Holdings+a.s.
+                      - img [ref=f158e4]
+                    - generic [ref=f158e5]:
+                      - link [ref=f158e7] [cursor=pointer]:
+                        - /url: https://ams.creativecdn.com/ad/clicks?tk=EjkZJZYqPx8YVFMKJmjY6hf_0bFiuxPnAqqo8oXhOFlbdRdURkyEHptBviXrsISEWvd3xXfAkW8-BLtlfTgPg8oNhaSBcJLX4FAHhvTWKa3kzNBidZ_DUOj5xiTOulWxI3dIIaXjFpgLE45Y5_wbKIGbFHzB9bInuwxlk16McOO39LeeUv8yZF3_5UsEBE7yd_aZt9PW8xPyrim91Frvx2PlGn0JmmkCIh2rh2aN5Mq56i_9ygtFL7-tNjzKI029_0ODUlAeJEiF9kq9w0Hk89-Z1EE7xbYdpbkKsOMsV6KzZaDnXYcqQldYWwHghybI1BFuxOyKBsYyaZnht0TskL0TyJMNV2UWN6jONzghsIttuVQ_4xgNpI40-hvTG8mQBySEdfCv_3TQslsc_ujSfOJLC7bDxcqmflx3LW8WKkXUnv0y55pkdI5jg5TiO68jzwscO2zN7POL_q83NgWplUidVIcWKH63eeGrlhnPdC-rLcU0Rw3itclGpxJw8vyePyG0nXw-_Hfpdm4TPOScYXAeIYdWEn4KzOp-jUIELaQ-VKSQ3PiPdSRmLk1VofJdtfOC7szRq0W7StSeIQqPxjTbdOAe2-Tx2SZkNdQIaYodOl_Dofnh-3RA4bep7_oR3gYwkKWH6oNtGRyI6Oa80u86VuRPbhtx_sDf9YJPRwgB
+                      - generic [ref=f158e12]:
+                        - link [ref=f158e13] [cursor=pointer]:
+                          - /url: https://ams.creativecdn.com/ad/clicks?tk=5QMz_urpyiOisW2urUf2e53Rzg5SgtOrmgz-d_rrVzIJhKpURqPrgh0z9vBMxe40x9L9oxb5L1QVSiPX9abbZGR1iA4MbMkU4qHfjXUcv462ohlGLY-dVFAtgrOhov0km0ZbkAZUGpRjqkfGkDDMhUARFN0Z1SzJ4NM7iBjzjzCPXBfEzcZIgNbf6mD6JRM3X1m39KpMAYS6Pz6zcrai0YFJexpPr4eF_GLq4uJ-iRKbNWSQwWyJGfc1AOw5b53Qp3-5q0C_5RYuvHP7hZyjabRFr4IBsF5clcfcIk9HwwMCNJ7JmZNy8a_XnG03CuBQ-6wgMFXeeC6RPZ1cSZkTA_NmZPzLkhTIv4G-PVM1Vw0yo8SDujeEaGtq8eDNu_PnMymK79zjuxS3TSBLYqI6-EosEwfpeea3nAY0G6IUG2V1Fl4PxcxEBVaMwBVZ7YDy2lWb5ZFhRPwss2MAad3vfSDMYRtl2HE80ZNeHerEf88HV13iRlwnIqm-qEI6Xw8iRxL-WLAv6sVPgsIUAZyOjjCK3NRMhw5Q1GvJsttLWDl2sTLcclKO5bAKsqvemsgkcghcRP5FAX4jARXB1jTkkZh0ZudeRFzWrf4g83uBFmYZCz3bE6tD3i-w2LFJ9CbB10vwcMAvDN1EpYfS_-Csl7VU9Y0BfdzBluvwSg0oNgsB
+                        - link "Skoda Octavia 2017 210 000 Kč" [ref=f158e14] [cursor=pointer]:
+                          - /url: https://ams.creativecdn.com/ad/clicks?tk=5QMz_urpyiOisW2urUf2e53Rzg5SgtOrmgz-d_rrVzIJhKpURqPrgh0z9vBMxe40x9L9oxb5L1QVSiPX9abbZGR1iA4MbMkU4qHfjXUcv462ohlGLY-dVFAtgrOhov0km0ZbkAZUGpRjqkfGkDDMhUARFN0Z1SzJ4NM7iBjzjzCPXBfEzcZIgNbf6mD6JRM3X1m39KpMAYS6Pz6zcrai0YFJexpPr4eF_GLq4uJ-iRKbNWSQwWyJGfc1AOw5b53Qp3-5q0C_5RYuvHP7hZyjabRFr4IBsF5clcfcIk9HwwMCNJ7JmZNy8a_XnG03CuBQ-6wgMFXeeC6RPZ1cSZkTA_NmZPzLkhTIv4G-PVM1Vw0yo8SDujeEaGtq8eDNu_PnMymK79zjuxS3TSBLYqI6-EosEwfpeea3nAY0G6IUG2V1Fl4PxcxEBVaMwBVZ7YDy2lWb5ZFhRPwss2MAad3vfSDMYRtl2HE80ZNeHerEf88HV13iRlwnIqm-qEI6Xw8iRxL-WLAv6sVPgsIUAZyOjjCK3NRMhw5Q1GvJsttLWDl2sTLcclKO5bAKsqvemsgkcghcRP5FAX4jARXB1jTkkZh0ZudeRFzWrf4g83uBFmYZCz3bE6tD3i-w2LFJ9CbB10vwcMAvDN1EpYfS_-Csl7VU9Y0BfdzBluvwSg0oNgsB
+                          - generic [ref=f158e21]:
+                            - text: Skoda Octavia
+                            - generic [ref=f158e22]: "2017"
+                            - generic [ref=f158e24]: 210 000 Kč
+                        - link "Skoda Octavia 2020 270 000 Kč" [ref=f158e25] [cursor=pointer]:
+                          - /url: https://ams.creativecdn.com/ad/clicks?tk=5QMz_urpyiOisW2urUf2e53Rzg5SgtOrmgz-d_rrVzIJhKpURqPrgh0z9vBMxe40x9L9oxb5L1QVSiPX9abbZGR1iA4MbMkU4qHfjXUcv462ohlGLY-dVFAtgrOhov0km0ZbkAZUGpRjqkfGkDDMhUARFN0Z1SzJ4NM7iBjzjzCPXBfEzcZIgNbf6mD6JRM3X1m39KpMAYS6Pz6zcrai0YFJexpPr4eF_GLq4uJ-iRKbNWSQwWyJGfc1AOw5b53Qp3-5q0C_5RYuvHP7hZyjabRFr4IBsF5clcfcIk9HwwMCNJ7JmZNy8a_XnG03CuBQ-6wgMFXeeC6RPZ1cSZkTA_NmZPzLkhTIv4G-PVM1Vw0yo8SDujeEaGtq8eDNu_PnMymK79zjuxS3TSBLYqI6-EosEwfpeea3nAY0G6IUG2V1Fl4PxcxEBVaMwBVZ7YDy2lWb5ZFhRPwss2MAad3vfSDMYRtl2HE80ZNeHerEf88HV13iRlwnIqm-qEI6Xw8iRxL-WLAv6sVPgsIUAZyOjjCK3NRMhw5Q1GvJsttLWDl2sTLcclKO5bAKsqvemsgkcghcRP5FAX4jARXB1jTkkZh0ZudeRFzWrf4g83uBFmYZCz3bE6tD3i-w2LFJ9CbB10vwcMAvDN1EpYfS_-Csl7LgpaJdjHk2wJjDZylpSIkB
+                          - generic [ref=f158e32]:
+                            - text: Skoda Octavia
+                            - generic [ref=f158e33]: "2020"
+                            - generic [ref=f158e35]: 270 000 Kč
+                        - link "Skoda Octavia 2018 210 000 Kč" [ref=f158e36] [cursor=pointer]:
+                          - /url: https://ams.creativecdn.com/ad/clicks?tk=5QMz_urpyiOisW2urUf2e53Rzg5SgtOrmgz-d_rrVzIJhKpURqPrgh0z9vBMxe40x9L9oxb5L1QVSiPX9abbZGR1iA4MbMkU4qHfjXUcv462ohlGLY-dVFAtgrOhov0km0ZbkAZUGpRjqkfGkDDMhUARFN0Z1SzJ4NM7iBjzjzCPXBfEzcZIgNbf6mD6JRM3X1m39KpMAYS6Pz6zcrai0YFJexpPr4eF_GLq4uJ-iRKbNWSQwWyJGfc1AOw5b53Qp3-5q0C_5RYuvHP7hZyjabRFr4IBsF5clcfcIk9HwwMCNJ7JmZNy8a_XnG03CuBQ-6wgMFXeeC6RPZ1cSZkTA_NmZPzLkhTIv4G-PVM1Vw0yo8SDujeEaGtq8eDNu_PnMymK79zjuxS3TSBLYqI6-EosEwfpeea3nAY0G6IUG2V1Fl4PxcxEBVaMwBVZ7YDy2lWb5ZFhRPwss2MAad3vfSDMYRtl2HE80ZNeHerEf88HV13iRlwnIqm-qEI6Xw8iRxL-WLAv6sVPgsIUAZyOjjCK3NRMhw5Q1GvJsttLWDl2sTLcclKO5bAKsqvemsgkcghcRP5FAX4jARXB1jTkkZh0ZudeRFzWrf4g83uBFmYZCz3bE6tD3i-w2LFJ9CbB10vwcMAvDN1EpYfS_-Csl8oLNn7OmyUlwHIRB2oQ5pkB
+                          - generic [ref=f158e43]:
+                            - text: Skoda Octavia
+                            - generic [ref=f158e44]: "2018"
+                            - generic [ref=f158e46]: 210 000 Kč
+                - img [ref=f157e4]
+                - iframe
+                - iframe
+            - link "pubmatic2-paw" [ref=e1659] [cursor=pointer]:
+              - /url: https://ssp.seznam.cz/ad-info#eyJhIjpbeyJpIjoiUC1DRmZSYURQWnVOenJVOUZrbjJpbiIsInIiOlsyXX1dLCJzIjoxLCJsIjowfQ
+              - img "pubmatic2-paw" [ref=e1661]
+        - generic [ref=e1418]:
+          - generic [ref=e1419]:
+            - link "sauto.cz" [ref=e1421] [cursor=pointer]:
+              - /url: https://www.sauto.cz/
+              - img "sauto.cz" [ref=e1422]
+            - list [ref=e1424]:
+              - listitem [ref=e1425]:
+                - button "Co říkáte na Sauto?" [ref=e1426] [cursor=pointer]
+              - listitem [ref=e1427]:
+                - link "Smluvní podmínky" [ref=e1428] [cursor=pointer]:
+                  - /url: https://o-seznam.cz/napoveda/sauto/dulezite-pro-vsechny/smluvni-podminky
+              - listitem [ref=e1429]:
+                - link "Dokumentace importu" [ref=e1430] [cursor=pointer]:
+                  - /url: https://www.sauto.cz/dokumentace-importu
+              - listitem [ref=e1431]:
+                - link "Stížnosti" [ref=e1432] [cursor=pointer]:
+                  - /url: https://o-seznam.cz/napoveda/sauto/stiznost/
+              - listitem [ref=e1433]:
+                - link "Ochrana údajů" [ref=e1434] [cursor=pointer]:
+                  - /url: https://o-seznam.cz/pravni-informace/ochrana-udaju/sauto-cz/
+              - listitem [ref=e1435]:
+                - link "Produktový list" [ref=e1436] [cursor=pointer]:
+                  - /url: https://www.seznam.cz/reklama/cz/obsahovy-web/ceniky/
+              - listitem [ref=e1437]:
+                - link "Nápověda" [ref=e1438] [cursor=pointer]:
+                  - /url: https://o-seznam.cz/napoveda/sauto/prihlaseni-jednorazova-inzerce/
+              - listitem [ref=e1439]:
+                - link "Kontakt" [ref=e1440] [cursor=pointer]:
+                  - /url: https://o-seznam.cz/napoveda/sauto/kontakty/
+              - listitem [ref=e1441]:
+                - link "Blog Sauto.cz" [ref=e1442] [cursor=pointer]:
+                  - /url: https://blog.seznam.cz/stitek/sauto-cz/
+              - listitem [ref=e1443]:
+                - link "Vstup pro prodejce" [ref=e1444] [cursor=pointer]:
+                  - /url: https://www.sauto.cz/moje-inzeraty
+              - listitem [ref=e1445]:
+                - link "Prověření Cebia" [ref=e1446] [cursor=pointer]:
+                  - /url: /promo-cebia
+              - listitem [ref=e1447]:
+                - button "Nastavení personalizace" [ref=e1448] [cursor=pointer]
+              - listitem [ref=e1449]:
+                - link "Pro novináře" [ref=e1450] [cursor=pointer]:
+                  - /url: https://blog.seznam.cz/trendy-a-vyzkumy/sauto-cz/
+          - generic [ref=e1451]:
+            - generic [ref=e1452]:
+              - generic [ref=e1453]:
+                - heading "Služby" [level=5] [ref=e1454]
+                - list [ref=e1455]:
+                  - listitem [ref=e1456]:
+                    - link "Restaurace" [ref=e1457] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/nejlepsi/Restauracni-a-pohostinske-sluzby/Restaurace/
+                  - listitem [ref=e1458]:
+                    - link "Směnárny" [ref=e1459] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/nejlepsi/Cestovni-sluzby/Sluzby-turistum/Smenarny/
+                  - listitem [ref=e1460]:
+                    - link "Cukrárny" [ref=e1461] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/nejlepsi/Restauracni-a-pohostinske-sluzby/Cukrarny/
+                  - listitem [ref=e1462]:
+                    - link "Zahradnictví" [ref=e1463] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/Remesla-a-sluzby/Remesla/Zahradnictvi
+                  - listitem [ref=e1464]:
+                    - link "Alergologie" [ref=e1465] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/Prvni-pomoc-a-zdravotnictvi/Zdravotnicke-sluzby/Zdravotnicka-zarizeni/Lekarske-ordinace/Alergologicke-ordinace
+                  - listitem [ref=e1466]:
+                    - link "Food truck" [ref=e1467] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/stitek/food-truck
+                  - listitem [ref=e1468]:
+                    - link "Květinářství" [ref=e1469] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/Obchody-a-obchudky/Prodejci-darkoveho-zbozi/Kvetinarstvi
+                  - listitem [ref=e1470]:
+                    - link "Půjčovny jízdních kol" [ref=e1471] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/Remesla-a-sluzby/Pujcovny/Pujcovny-sportovnich-potreb/Pujcovny-jizdnich-kol
+              - generic [ref=e1472]:
+                - heading "Blog Sreality" [level=5] [ref=e1473]
+                - list [ref=e1474]:
+                  - listitem [ref=e1475]:
+                    - link "Funkce předsedy SVJ" [ref=e1476] [cursor=pointer]:
+                      - /url: https://www.sreality.cz/reality/clanek/sreality-cz-predseda-svj-kdo-muze-funkci-vykonavat-jake-ma-pravomoci-a-za-co-odpovida-2811
+                  - listitem [ref=e1477]:
+                    - link "Jak ukončit pronájem" [ref=e1478] [cursor=pointer]:
+                      - /url: https://www.sreality.cz/reality/clanek/sreality-cz-stehujete-se-pruvodce-jak-ukoncit-najem-bezpecne-a-bez-sankci-2809
+                  - listitem [ref=e1479]:
+                    - link "Družstevní vlastnictví" [ref=e1480] [cursor=pointer]:
+                      - /url: https://www.sreality.cz/reality/clanek/sreality-cz-byt-ktery-vam-ne-patri-pruvodce-svetem-druzstevniho-vlastnictvi-2652
+                  - listitem [ref=e1481]:
+                    - link "Drobné zahradní stavby" [ref=e1482] [cursor=pointer]:
+                      - /url: https://www.sreality.cz/reality/clanek/sreality-cz-co-lze-postavit-a-kdy-uz-riskujete-pokutu-2908
+                  - listitem [ref=e1483]:
+                    - link "Ceny bytů v Praze a Brně" [ref=e1484] [cursor=pointer]:
+                      - /url: https://www.sreality.cz/reality/clanek/sreality-cz-nabidkove-ceny-bytu-v-praze-i-brne-podle-dat-sreality-cz-mirne-rostou-a-ceny-za-pronajmy-take-16
+                  - listitem [ref=e1485]:
+                    - 'link "Ceny garáží: srovnání" [ref=e1486] [cursor=pointer]':
+                      - /url: https://www.sreality.cz/reality/clanek/sreality-cz-ceny-ceskych-garazi-mezirocne-zdrazily-v-prumeru-zhruba-o-petinu-1142
+                  - listitem [ref=e1487]:
+                    - link "Investice do menších bytů" [ref=e1488] [cursor=pointer]:
+                      - /url: https://www.sreality.cz/reality/clanek/sreality-cz-investicni-kalkulacka-sreality-cz-v-praze-se-nejrychleji-vrati-investice-do-tech-nejmensich-bytu-nejdraz-je-na-praze-1-2-a-5-17
+                  - listitem [ref=e1489]:
+                    - link "Představení Sreality" [ref=e1490] [cursor=pointer]:
+                      - /url: https://www.sreality.cz/reality/clanek/sreality-cz-nove-sreality-cz-se-blize-predstavuji-34
+              - generic [ref=e1491]:
+                - heading "Letáky" [level=5] [ref=e1492]
+                - list [ref=e1493]:
+                  - listitem [ref=e1494]:
+                    - link "Lidl leták" [ref=e1495] [cursor=pointer]:
+                      - /url: https://www.kupi.cz/letaky/lidl
+                  - listitem [ref=e1496]:
+                    - link "Kaufland leták" [ref=e1497] [cursor=pointer]:
+                      - /url: https://www.kupi.cz/letaky/kaufland
+                  - listitem [ref=e1498]:
+                    - link "Penny market leták" [ref=e1499] [cursor=pointer]:
+                      - /url: https://www.kupi.cz/letaky/penny-market
+                  - listitem [ref=e1500]:
+                    - link "Billa leták" [ref=e1501] [cursor=pointer]:
+                      - /url: https://www.kupi.cz/letaky/billa
+                  - listitem [ref=e1502]:
+                    - link "Hruška leták" [ref=e1503] [cursor=pointer]:
+                      - /url: https://www.kupi.cz/letaky/hruska
+                  - listitem [ref=e1504]:
+                    - link "Globus leták" [ref=e1505] [cursor=pointer]:
+                      - /url: https://www.kupi.cz/letaky/globus
+                  - listitem [ref=e1506]:
+                    - link "Albert leták" [ref=e1507] [cursor=pointer]:
+                      - /url: https://www.kupi.cz/letaky/albert
+                  - listitem [ref=e1508]:
+                    - link "Tesco leták" [ref=e1509] [cursor=pointer]:
+                      - /url: https://www.kupi.cz/letaky/tesco
+              - generic [ref=e1510]:
+                - heading "Oblíbené modely aut" [level=5] [ref=e1511]
+                - list [ref=e1512]:
+                  - listitem [ref=e1513]:
+                    - link "Tesla Y" [ref=e1514] [cursor=pointer]:
+                      - /url: https://www.sauto.cz/inzerce/osobni/tesla/model-y
+                  - listitem [ref=e1515]:
+                    - link "Tesla 3" [ref=e1516] [cursor=pointer]:
+                      - /url: https://www.sauto.cz/inzerce/osobni/tesla/model-3
+                  - listitem [ref=e1517]:
+                    - link "Škoda Elroq" [ref=e1518] [cursor=pointer]:
+                      - /url: https://www.sauto.cz/inzerce/osobni/skoda/elroq
+                  - listitem [ref=e1519]:
+                    - link "Hyundai Ioniq" [ref=e1520] [cursor=pointer]:
+                      - /url: https://www.sauto.cz/inzerce/osobni/hyundai/ioniq
+                  - listitem [ref=e1521]:
+                    - link "Kia EV6" [ref=e1522] [cursor=pointer]:
+                      - /url: https://www.sauto.cz/inzerce/osobni/kia/ev6
+                  - listitem [ref=e1523]:
+                    - link "Škoda Enyaq" [ref=e1524] [cursor=pointer]:
+                      - /url: https://www.sauto.cz/inzerce/osobni/skoda/enyaq
+                  - listitem [ref=e1525]:
+                    - link "BMW i4" [ref=e1526] [cursor=pointer]:
+                      - /url: https://www.sauto.cz/inzerce/osobni/bmw/i4
+                  - listitem [ref=e1527]:
+                    - link "BMW iX3" [ref=e1528] [cursor=pointer]:
+                      - /url: https://www.sauto.cz/inzerce/osobni/bmw/ix3
+              - generic [ref=e1529]:
+                - heading "TV Program" [level=5] [ref=e1530]
+                - list [ref=e1531]:
+                  - listitem [ref=e1532]:
+                    - link "Odznak Vysočina" [ref=e1533] [cursor=pointer]:
+                      - /url: https://tv.seznam.cz/vyhledavani?q=Odznak+Vyso%C4%8Dina
+                  - listitem [ref=e1534]:
+                    - link "Modrá krev" [ref=e1535] [cursor=pointer]:
+                      - /url: https://tv.seznam.cz/vyhledavani?q=Modr%C3%A1+krev
+                  - listitem [ref=e1536]:
+                    - link "Asia expres" [ref=e1537] [cursor=pointer]:
+                      - /url: https://tv.seznam.cz/vyhledavani?q=asia+expres
+                  - listitem [ref=e1538]:
+                    - link "Kriminálka Staré město" [ref=e1539] [cursor=pointer]:
+                      - /url: https://tv.seznam.cz/vyhledavani?q=krimin%C3%A1lka+Star%C3%A9+m%C4%9Bsto
+                  - listitem [ref=e1540]:
+                    - link "O lidech a koních" [ref=e1541] [cursor=pointer]:
+                      - /url: https://tv.seznam.cz/vyhledavani?q=o+lidech+a+kon%C3%ADch
+                  - listitem [ref=e1542]:
+                    - link "Extrémní proměny" [ref=e1543] [cursor=pointer]:
+                      - /url: https://tv.seznam.cz/vyhledavani?q=extr%C3%A9mn%C3%AD+prom%C4%9Bny
+                  - listitem [ref=e1544]:
+                    - link "Survivor" [ref=e1545] [cursor=pointer]:
+                      - /url: https://tv.seznam.cz/vyhledavani/?q=survivor
+                  - listitem [ref=e1546]:
+                    - link "Na lovu" [ref=e1547] [cursor=pointer]:
+                      - /url: https://tv.seznam.cz/vyhledavani?q=na+lovu
+              - generic [ref=e1548]:
+                - heading "Bazar pro miminka" [level=5] [ref=e1549]
+                - list [ref=e1550]:
+                  - listitem [ref=e1551]:
+                    - link "Sportovní kočárky" [ref=e1552] [cursor=pointer]:
+                      - /url: https://www.sbazar.cz/419-sportovni-kocarky
+                  - listitem [ref=e1553]:
+                    - link "Autosedačky" [ref=e1554] [cursor=pointer]:
+                      - /url: https://www.sbazar.cz/145-autosedacky
+                  - listitem [ref=e1555]:
+                    - link "Podsedáky do auta" [ref=e1556] [cursor=pointer]:
+                      - /url: https://www.sbazar.cz/424-podsedaky-do-auta
+                  - listitem [ref=e1557]:
+                    - link "Chůvičky a monitory" [ref=e1558] [cursor=pointer]:
+                      - /url: https://www.sbazar.cz/241-chuvicky-monitory
+                  - listitem [ref=e1559]:
+                    - link "Dětská nosítka a šátky" [ref=e1560] [cursor=pointer]:
+                      - /url: https://www.sbazar.cz/439-klokanky-krosny-nositka-satky
+                  - listitem [ref=e1561]:
+                    - link "Ohřívače a stelizátory" [ref=e1562] [cursor=pointer]:
+                      - /url: https://www.sbazar.cz/496-ohrivace-sterilizatory
+                  - listitem [ref=e1563]:
+                    - link "Zavinovačky a fusaky" [ref=e1564] [cursor=pointer]:
+                      - /url: https://www.sbazar.cz/499-zavinovacky-fusaky
+                  - listitem [ref=e1565]:
+                    - link "Přebalovací pulty" [ref=e1566] [cursor=pointer]:
+                      - /url: https://www.sbazar.cz/432-prebalovaci-pulty-komody
+            - generic [ref=e1567]:
+              - generic [ref=e1568]:
+                - heading "Rok 2026" [level=5] [ref=e1569]
+                - list [ref=e1570]:
+                  - listitem [ref=e1571]:
+                    - link "Volby v roce 2026" [ref=e1572] [cursor=pointer]:
+                      - /url: https://www.seznamzpravy.cz/clanek/kdy-budou-volby-76043
+                  - listitem [ref=e1573]:
+                    - link "Volby do Senátu" [ref=e1574] [cursor=pointer]:
+                      - /url: https://www.novinky.cz/sekce/volby-do-senatu-245
+                  - listitem [ref=e1575]:
+                    - link "Komunální volby" [ref=e1576] [cursor=pointer]:
+                      - /url: https://www.novinky.cz/sekce/volby-komunalni-344
+                  - listitem [ref=e1577]:
+                    - link "Změny zákonů" [ref=e1578] [cursor=pointer]:
+                      - /url: https://www.seznamzpravy.cz/clanek/radce-zmeny-2026-294860
+                  - listitem [ref=e1579]:
+                    - link "Daňové přiznání" [ref=e1580] [cursor=pointer]:
+                      - /url: https://www.seznamzpravy.cz/tag/danove-priznani-28081
+                  - listitem [ref=e1581]:
+                    - link "Superdávka - kalkulačka" [ref=e1582] [cursor=pointer]:
+                      - /url: https://www.seznamzpravy.cz/clanek/radce-superdavka-vypocet-podminky-kdy-jak-zadat-287404
+                  - listitem [ref=e1583]:
+                    - link "Filmové festivaly" [ref=e1584] [cursor=pointer]:
+                      - /url: https://www.seznamzpravy.cz/tag/filmove-festivaly-89124
+                  - listitem [ref=e1585]:
+                    - link "Kempy v Chorvatsku" [ref=e1586] [cursor=pointer]:
+                      - /url: https://www.garaz.cz/clanek/servis-dovolena-s-autem-nejlepsi-kempy-v-chorvatsku-21008676
+              - generic [ref=e1587]:
+                - heading "Sport" [level=5] [ref=e1588]
+                - list [ref=e1589]:
+                  - listitem [ref=e1590]:
+                    - link "MS hokej 2026" [ref=e1591] [cursor=pointer]:
+                      - /url: https://www.sport.cz/sekce/hokej-ms-1615
+                  - listitem [ref=e1592]:
+                    - link "Program MS v hokeji" [ref=e1593] [cursor=pointer]:
+                      - /url: https://www.sport.cz/clanek/hokej-ms-2026-program-tabulka-vysledky-5240102
+                  - listitem [ref=e1594]:
+                    - link "Češi na MS v hokeji" [ref=e1595] [cursor=pointer]:
+                      - /url: https://www.sport.cz/clanek/hokej-ms-2026-kdy-hraji-cesi-program-vysledky-5429699
+                  - listitem [ref=e1596]:
+                    - link "Tipsport extraliga" [ref=e1597] [cursor=pointer]:
+                      - /url: https://www.sport.cz/sekce/hokej-extraliga-47
+                  - listitem [ref=e1598]:
+                    - link "MS fotbal 2026" [ref=e1599] [cursor=pointer]:
+                      - /url: https://www.sport.cz/sekce/fotbal-ms-879
+                  - listitem [ref=e1600]:
+                    - link "Program MS fotbal" [ref=e1601] [cursor=pointer]:
+                      - /url: https://www.sport.cz/clanek/fotbal-ms-mistrovstvi-sveta-2026-usa-kanada-mexiko-program-tabulky-skupiny-cesko-5429712
+                  - listitem [ref=e1602]:
+                    - link "Skupiny MS fotbal" [ref=e1603] [cursor=pointer]:
+                      - /url: https://www.sport.cz/sekce/fotbal-ms-tabulky-1348
+                  - listitem [ref=e1604]:
+                    - link "Chance liga" [ref=e1605] [cursor=pointer]:
+                      - /url: https://www.sport.cz/sekce/fotbal-ceska-1-liga-38
+          - generic [ref=e1606]:
+            - link "seznam.cz" [ref=e1608] [cursor=pointer]:
+              - /url: https://www.seznam.cz/
+              - img "seznam.cz"
+            - generic [ref=e1609]:
+              - list [ref=e1610]:
+                - listitem [ref=e1611]:
+                  - link "Nápověda" [ref=e1612] [cursor=pointer]:
+                    - /url: https://o-seznam.cz/napoveda/
+                - listitem [ref=e1613]:
+                  - link "Smluvní podmínky" [ref=e1614] [cursor=pointer]:
+                    - /url: https://o-seznam.cz/napoveda/ucet/registrace/smluvni-podminky/
+                - listitem [ref=e1615]:
+                  - link "Ochrana údajů" [ref=e1616] [cursor=pointer]:
+                    - /url: https://o-seznam.cz/pravni-informace/ochrana-udaju/
+                - listitem [ref=e1617]:
+                  - link "O Seznamu" [ref=e1618] [cursor=pointer]:
+                    - /url: https://o.seznam.cz
+                - listitem [ref=e1619]:
+                  - link "Reklama" [ref=e1620] [cursor=pointer]:
+                    - /url: https://www.seznam.cz/reklama/
+                - listitem [ref=e1621]:
+                  - button "Odvolat souhlas" [ref=e1622] [cursor=pointer]
+              - generic [ref=e1623]: © 1996–2026 Seznam.cz, a.s.
+  - status [ref=e1662]
